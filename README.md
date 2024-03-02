@@ -24,6 +24,6 @@ In this analysis, we aim to identify the parameters of a system described by the
 
 y(t) = 0.8 * y(t - 1) + 0.5 * u(t - 1) + Noise(t);
 
-### Implementation
-- MATLAB
+   ### Implementation
+  - MATLAB
 
