@@ -18,3 +18,12 @@ We will use the RLS algorithm with different forgetting factors (\(\lambda\)) to
  
     ## Implementation
     - MATLAB
+   
+## System Identification using RLS,SA,PA and LMS
+In this analysis, we aim to identify the parameters of a system described by the equation:
+
+y(t) = 0.8 * y(t - 1) + 0.5 * u(t - 1) + Noise(t);
+
+### Implementation
+- MATLAB
+
