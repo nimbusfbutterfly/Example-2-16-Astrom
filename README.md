@@ -3,7 +3,7 @@
 ## System Identification using RLS Algorithm
 In this analysis, we aim to identify the parameters of a system described by the equation:
 
-\[ y(t) = 0.8 \times y(t - 1) + 0.5 \times u(t - 1) + \text{Noise}(t) \]
+y(t) = 0.8 * y(t - 1) + 0.5 * u(t - 1) + Noise(t);
 
 using the Recursive Least Squares (RLS) algorithm. The RLS algorithm is a widely used method for online estimation of system parameters from input-output data.
 
